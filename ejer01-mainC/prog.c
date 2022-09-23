@@ -4,7 +4,7 @@
 //  En la consola:
 //  compilar => gcc prog.c -o prog.exe
 //  "man" para ver el manual
-int main(int argc, char const *argv[])
+int main(int argc, char const *argv[]) 
 {
 //  Para que se repita un proceso(procesos paralelos):
     fork();
